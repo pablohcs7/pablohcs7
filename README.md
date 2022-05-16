@@ -1,7 +1,7 @@
 
 ### Hello earthlings 🖖! I'm Pablo
 
-- 🌱 Learning: web development (React/Typescript currently)
+- 🌱 Learning: Web development (React/Typescript currently)
 - ⚡ Fun fact: Soup is not dinner
 
 
