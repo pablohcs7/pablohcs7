@@ -1,6 +1,7 @@
 
 ### Hello earthlings 🖖! I'm Pablo
 
+- 👨🏽‍💻 Software developer trainee at Devnology
 - 🌱 Learning: Full stack development
 - ⚡ Fun fact: Soup is not dinner
 
