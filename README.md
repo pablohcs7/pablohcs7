@@ -1,8 +1,8 @@
 
 ### Hello earthlings 🖖! I'm Pablo
 
-- 👨🏽‍💻 Software Developer Trainee at Devnology
-- 🌱 Learning: Full stack development
+- 👨🏽‍💻 Software Developer full-stack
+- 🌱 Learning: Full stack web development
 - ⚡ Fun fact: Soup is not dinner
 
 
@@ -18,9 +18,10 @@
     <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Pablo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Pablo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img align="center" alt="Pablo-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Pablo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img align="center" alt="Pablo-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img align="center" alt="Pablo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="right" alt="Pablo-gif" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e477jqfw6cy3lxpffa7d9onbb1p3epswdl8uzrwajbk&rid=giphy.gif&ct=g">
   </div>
   
