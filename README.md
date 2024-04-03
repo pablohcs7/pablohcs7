@@ -2,7 +2,7 @@
 ### Hello earthlings 🖖! I'm Pablo
 
 - 👨🏽‍💻 Software Developer Full-stack
-- 🌱 Learning: Full stack web development
+- 🌱 Learning: Full-stack web development
 - ⚡ Fun fact: Soup is not dinner
 
 
